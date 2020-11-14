@@ -1,1 +1,0 @@
-# fghalamzan.github.io

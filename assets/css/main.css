@@ -134,8 +134,8 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #777;
-		font-weight: 700;
+		color: #0000e6;
+		font-weight: 500;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
 	}
@@ -1785,14 +1785,15 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #4acaa8;
-		font-size: 3.5em;
+		color: #0000cc;
+		font-size: 1.5em;
+		font-weight: 500;
 	}
 
 		header.major h2 + p {
-			color: #777;
-			font-size: 1.75em;
-			font-weight: 700;
+			color: #000000;
+			font-size: 0.9em;
+			font-weight: 100;
 			margin-top: -0.75em;
 		}
 
@@ -3125,7 +3126,7 @@ input, select, textarea {
 			}
 
 			h3 {
-				font-size: 1.5em;
+				font-size: 1.em;
 			}
 
 			h4 {
@@ -3135,7 +3136,7 @@ input, select, textarea {
 		/* Image */
 
 			.image.left {
-				margin: 0 1.5em 1em 0;
+				margin: 0 5em 1em 0;
 			}
 
 			.image.right {
